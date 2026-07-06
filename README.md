@@ -16,11 +16,13 @@ Me chamo Heitor Pinheiro, tenho 20 anos, moro em Brasília e sou estudante de En
 
 ### 🚀 Projetos em Destaque
 * **LexTrack Dashboard:** Plataforma baseada em dados para análise e monitoramento de projetos de lei.
+* **Link:** https://lextrack-frontend-ittkpv37t-2026-1-squad13.vercel.app/dashboard
 <img width="1917" height="944" alt="image" src="https://github.com/user-attachments/assets/f646ba1b-3408-4d57-b583-80c33cf84f55" />
 
 
 
 * **Agrofloresta:** AgroFloresta na Escola é um site educativo e interativo que promove a educação agroflorestal e a conservação do Cerrado através de recursos didáticos e práticas comunitárias.
+* **Link:** https://heitorovski01.github.io/Agrofloresta/
 <img width="1903" height="944" alt="image" src="https://github.com/user-attachments/assets/e903b188-d924-40eb-9fac-5065fd9e28b7" />
 
 ### 📫 Como me encontrar
